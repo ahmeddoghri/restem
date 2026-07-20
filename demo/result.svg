@@ -3,7 +3,7 @@
   <rect x="64" y="64" width="8" height="502" fill="#25c2a0"/>
   <text x="112" y="142" fill="#8fa6b5" font-family="Arial, sans-serif" font-size="24">SOUND & MUSIC / OPEN RESEARCH REPRODUCTION</text>
   <text x="112" y="226" fill="#ffffff" font-family="Arial, sans-serif" font-size="66" font-weight="700">restem</text>
-  <text x="112" y="294" fill="#c8d6df" font-family="Arial, sans-serif" font-size="27">Multi-step music source separation that improves a separator without retraining it.</text>
+          <text x="112" y="294" fill="#c8d6df" font-family="Arial, sans-serif" font-size="27">ONE MECHANISM. ONE BASELINE. ONE NUMBER.</text>
   <text x="112" y="438" fill="#25c2a0" font-family="Arial, sans-serif" font-size="94" font-weight="700">27.74</text>
   <text x="112" y="488" fill="#8fa6b5" font-family="Arial, sans-serif" font-size="25">SNR GAIN DB</text>
   <text x="112" y="548" fill="#c8d6df" font-family="Arial, sans-serif" font-size="20">SEE THE CODE, DATA GENERATOR, TEST, AND BENCHMARK.</text>
