@@ -1,0 +1,13 @@
+[project]
+name = "restem"
+version = "0.1.0"
+description = "Multi-step music source separation that improves a separator without retraining it."
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
+authors = [{name = "Ahmed Doghri"}]
+keywords = ["machine-learning", "research", "sound-music", "benchmark"]
+
+[project.urls]
+Homepage = "https://adoghri.com"
+Repository = "https://github.com/ahmeddoghri/restem"
