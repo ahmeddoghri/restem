@@ -1,5 +1,9 @@
 # restem
 
+[![tests](https://github.com/ahmeddoghri/restem/actions/workflows/tests.yml/badge.svg)](https://github.com/ahmeddoghri/restem/actions/workflows/tests.yml) [![case study](https://img.shields.io/badge/case%20study-adoghri.com-e0703e)](https://adoghri.com/project-41.html)
+
+![restem](docs/cover.jpg)
+
 **Multi-step music source separation that improves a separator without retraining it.**
 
 Most "better separation" pitches mean bigger model, more data, another training run. restem doesn't touch a single weight. It takes whatever a separator already produced, looks at how much of the *other* source is still leaking through, and subtracts a little more of it — then does that again, and again, until the leakage stops moving. Same separator, same weights, just refusing to stop after one pass when the estimate obviously isn't done improving.
